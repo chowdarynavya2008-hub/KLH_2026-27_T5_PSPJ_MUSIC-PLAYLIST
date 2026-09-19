@@ -1,5 +1,5 @@
 # KLH_2026-27_T5_PSPJ_MUSIC-PLAYLIST
-Project Title: Music Playlist Listening Stats Manager  
+Project Title: Music Playlist Listening Stats Manager   
 Team No: KLH/PSPJAVA/S14/T05  
 
 ## Team Member Names with ID Numbers:
